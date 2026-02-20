@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Community Mapping App</title>
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+      integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+      crossorigin=""
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <header>
+      <h1>Community Mapping App</h1>
+      <p>
+        Marker data is loaded from <code>docs/data/markers.geojson</code> and managed through
+        GitHub Issue Forms.
+      </p>
+    </header>
+
+    <main>
+      <aside class="controls" aria-label="Map controls">
+        <section>
+          <h2>Search</h2>
+          <label for="search-input" class="visually-hidden">Search markers</label>
+          <input id="search-input" type="search" placeholder="Search title or description" />
+        </section>
+
+        <section>
+          <h2>Categories</h2>
+          <div id="category-filters">
+            <p class="hint">Loading categories…</p>
+          </div>
+        </section>
+
+        <section>
+          <h2>Status</h2>
+          <p id="status-message" role="status" aria-live="polite">Loading map data…</p>
+        </section>
+      </aside>
+
+      <section class="map-wrap" aria-label="Map area">
+        <div id="map"></div>
+      </section>
+    </main>
+
+    <footer>
+      <small>
+        Uses OpenStreetMap standard tiles via Leaflet. For low-traffic, non-commercial, educational
+        use only; review OSM tile usage policy before scaling.
+      </small>
+    </footer>
+
+    <script
+      src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+      integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+      crossorigin=""
+    ></script>
+    <script src="./app.js"></script>
+  </body>
+</html>
