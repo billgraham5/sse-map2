@@ -1,0 +1,27 @@
+name: Delete Marker
+description: Remove an existing marker from docs/data/markers.geojson by ID.
+title: "[Delete Marker]: "
+labels:
+  - marker-delete
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Deleting a marker is permanent in the source dataset history.
+
+  - type: input
+    id: id
+    attributes:
+      label: Marker ID
+      description: Required existing marker ID to remove.
+      placeholder: m-20260101-a1b2c3
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: confirm_delete
+    attributes:
+      label: Confirmation
+      options:
+        - label: I understand this will remove the marker from docs/data/markers.geojson.
+          required: true

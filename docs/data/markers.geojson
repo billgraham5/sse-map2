@@ -1,0 +1,1661 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-south-africa-cape-town",
+        "title": "Cape Town, South Africa",
+        "description": "Cape Town",
+        "Location": "Cape Town",
+        "category": "Africa",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4241,
+          -33.9249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-south-africa-johannesburg",
+        "title": "Johannesburg, South Africa",
+        "description": "Johannesburg",
+        "Location": "Johannesburg",
+        "category": "Africa",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.0473,
+          -26.2041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-south-africa-south-africa-multi-az",
+        "title": "South Africa (Multi-AZ), South Africa",
+        "description": "South Africa (Multi-AZ)",
+        "Location": "South Africa (Multi-AZ)",
+        "category": "Africa",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.2293,
+          -25.7479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-china-beijing-multi-az",
+        "title": "Beijing (Multi-AZ), China",
+        "description": "Beijing (Multi-AZ)",
+        "Location": "Beijing (Multi-AZ)",
+        "category": "Asia",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4074,
+          39.9042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-china-hong-kong-sar",
+        "title": "Hong Kong SAR, China",
+        "description": "Hong Kong SAR",
+        "Location": "Hong Kong SAR",
+        "category": "Asia",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1694,
+          22.3193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-china-hong-kong-sar-multi-az",
+        "title": "Hong Kong SAR (Multi-AZ), China",
+        "description": "Hong Kong SAR (Multi-AZ)",
+        "Location": "Hong Kong SAR (Multi-AZ)",
+        "category": "Asia",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1694,
+          22.3193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-china-ningxia-multi-az",
+        "title": "Ningxia (Multi-AZ), China",
+        "description": "Ningxia (Multi-AZ)",
+        "Location": "Ningxia (Multi-AZ)",
+        "category": "Asia",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.2309,
+          38.4872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-india-chennai",
+        "title": "Chennai, India",
+        "description": "Chennai",
+        "Location": "Chennai",
+        "category": "Asia",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2707,
+          13.0827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-india-chennai-2",
+        "title": "Chennai 2, India",
+        "description": "Chennai 2",
+        "Location": "Chennai 2",
+        "category": "Asia",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2707,
+          13.0827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-india-hyderabad-multi-az",
+        "title": "Hyderabad (Multi-AZ), India",
+        "description": "Hyderabad (Multi-AZ)",
+        "Location": "Hyderabad (Multi-AZ)",
+        "category": "Asia",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4867,
+          17.385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-india-mumbai-multi-az",
+        "title": "Mumbai (Multi-AZ), India",
+        "description": "Mumbai (Multi-AZ)",
+        "Location": "Mumbai (Multi-AZ)",
+        "category": "Asia",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8777,
+          19.076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-india-mumbai-2",
+        "title": "Mumbai 2, India",
+        "description": "Mumbai 2",
+        "Location": "Mumbai 2",
+        "category": "Asia",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8777,
+          19.076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-india-mumbai-3",
+        "title": "Mumbai 3, India",
+        "description": "Mumbai 3",
+        "Location": "Mumbai 3",
+        "category": "Asia",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8777,
+          19.076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-indonesia-jakarta-multi-az",
+        "title": "Jakarta (Multi-AZ), Indonesia",
+        "description": "Jakarta (Multi-AZ)",
+        "Location": "Jakarta (Multi-AZ)",
+        "category": "Asia",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8456,
+          -6.2088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-japan-osaka",
+        "title": "Osaka, Japan",
+        "description": "Osaka",
+        "Location": "Osaka",
+        "category": "Asia",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5023,
+          34.6937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-japan-osaka-2",
+        "title": "Osaka 2, Japan",
+        "description": "Osaka 2",
+        "Location": "Osaka 2",
+        "category": "Asia",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5023,
+          34.6937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-japan-osaka-multi-az",
+        "title": "Osaka (Multi-AZ), Japan",
+        "description": "Osaka (Multi-AZ)",
+        "Location": "Osaka (Multi-AZ)",
+        "category": "Asia",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5023,
+          34.6937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-japan-tokyo-multi-az",
+        "title": "Tokyo (Multi-AZ), Japan",
+        "description": "Tokyo (Multi-AZ)",
+        "Location": "Tokyo (Multi-AZ)",
+        "category": "Asia",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6917,
+          35.6895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-japan-tokyo-1",
+        "title": "Tokyo 1, Japan",
+        "description": "Tokyo 1",
+        "Location": "Tokyo 1",
+        "category": "Asia",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6917,
+          35.6895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-japan-tokyo-2",
+        "title": "Tokyo 2, Japan",
+        "description": "Tokyo 2",
+        "Location": "Tokyo 2",
+        "category": "Asia",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6917,
+          35.6895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-japan-tokyo-3",
+        "title": "Tokyo 3, Japan",
+        "description": "Tokyo 3",
+        "Location": "Tokyo 3",
+        "category": "Asia",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6917,
+          35.6895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-malaysia-malaysia-multi-az",
+        "title": "Malaysia (Multi-AZ), Malaysia",
+        "description": "Malaysia (Multi-AZ)",
+        "Location": "Malaysia (Multi-AZ)",
+        "category": "Asia",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6869,
+          3.139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-singapore-singapore",
+        "title": "Singapore, Singapore",
+        "description": "Singapore",
+        "Location": "Singapore",
+        "category": "Asia",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8198,
+          1.3521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-singapore-singapore-multi-az",
+        "title": "Singapore (Multi-AZ), Singapore",
+        "description": "Singapore (Multi-AZ)",
+        "Location": "Singapore (Multi-AZ)",
+        "category": "Asia",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8198,
+          1.3521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-south-korea-seoul",
+        "title": "Seoul, South Korea",
+        "description": "Seoul",
+        "Location": "Seoul",
+        "category": "Asia",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.978,
+          37.5665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-south-korea-seoul-multi-az",
+        "title": "Seoul (Multi-AZ), South Korea",
+        "description": "Seoul (Multi-AZ)",
+        "Location": "Seoul (Multi-AZ)",
+        "category": "Asia",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.978,
+          37.5665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-thailand-thailand-multi-az",
+        "title": "Thailand (Multi-AZ), Thailand",
+        "description": "Thailand (Multi-AZ)",
+        "Location": "Thailand (Multi-AZ)",
+        "category": "Asia",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5018,
+          13.7563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-czech-republic-prague",
+        "title": "Prague, Czech Republic",
+        "description": "Prague",
+        "Location": "Prague",
+        "category": "Europe",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4378,
+          50.0755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-denmark-copenhagen",
+        "title": "Copenhagen, Denmark",
+        "description": "Copenhagen",
+        "Location": "Copenhagen",
+        "category": "Europe",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5683,
+          55.6761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-france-france-multi-az",
+        "title": "France (Multi-AZ), France",
+        "description": "France (Multi-AZ)",
+        "Location": "France (Multi-AZ)",
+        "category": "Europe",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3522,
+          48.8566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-france-marseille",
+        "title": "Marseille, France",
+        "description": "Marseille",
+        "Location": "Marseille",
+        "category": "Europe",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3698,
+          43.2965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-france-paris",
+        "title": "Paris, France",
+        "description": "Paris",
+        "Location": "Paris",
+        "category": "Europe",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3522,
+          48.8566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-germany-dusseldorf",
+        "title": "Dusseldorf, Germany",
+        "description": "Dusseldorf",
+        "Location": "Dusseldorf",
+        "category": "Europe",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7735,
+          51.2277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-germany-frankfurt",
+        "title": "Frankfurt, Germany",
+        "description": "Frankfurt",
+        "Location": "Frankfurt",
+        "category": "Europe",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6821,
+          50.1109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-germany-germany-multi-az",
+        "title": "Germany (Multi-AZ), Germany",
+        "description": "Germany (Multi-AZ)",
+        "Location": "Germany (Multi-AZ)",
+        "category": "Europe",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6821,
+          50.1109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-ireland-dublin",
+        "title": "Dublin, Ireland",
+        "description": "Dublin",
+        "Location": "Dublin",
+        "category": "Europe",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2603,
+          53.3498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-ireland-ireland-multi-az",
+        "title": "Ireland (Multi-AZ), Ireland",
+        "description": "Ireland (Multi-AZ)",
+        "Location": "Ireland (Multi-AZ)",
+        "category": "Europe",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2603,
+          53.3498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-italy-milan",
+        "title": "Milan, Italy",
+        "description": "Milan",
+        "Location": "Milan",
+        "category": "Europe",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.19,
+          45.4642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-italy-milan-multi-az",
+        "title": "Milan (Multi-AZ), Italy",
+        "description": "Milan (Multi-AZ)",
+        "Location": "Milan (Multi-AZ)",
+        "category": "Europe",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.19,
+          45.4642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-netherlands-amsterdam",
+        "title": "Amsterdam, Netherlands",
+        "description": "Amsterdam",
+        "Location": "Amsterdam",
+        "category": "Europe",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9041,
+          52.3676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-poland-warsaw",
+        "title": "Warsaw, Poland",
+        "description": "Warsaw",
+        "Location": "Warsaw",
+        "category": "Europe",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0122,
+          52.2297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-romania-bucharest",
+        "title": "Bucharest, Romania",
+        "description": "Bucharest",
+        "Location": "Bucharest",
+        "category": "Europe",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.1025,
+          44.4268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-spain-madrid",
+        "title": "Madrid, Spain",
+        "description": "Madrid",
+        "Location": "Madrid",
+        "category": "Europe",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7038,
+          40.4168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-spain-spain-multi-az",
+        "title": "Spain (Multi-AZ), Spain",
+        "description": "Spain (Multi-AZ)",
+        "Location": "Spain (Multi-AZ)",
+        "category": "Europe",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7038,
+          40.4168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-sweden-stockholm",
+        "title": "Stockholm, Sweden",
+        "description": "Stockholm",
+        "Location": "Stockholm",
+        "category": "Europe",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0686,
+          59.3293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-sweden-stockholm-multi-az",
+        "title": "Stockholm (Multi-AZ), Sweden",
+        "description": "Stockholm (Multi-AZ)",
+        "Location": "Stockholm (Multi-AZ)",
+        "category": "Europe",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0686,
+          59.3293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-switzerland-zurich-multi-az",
+        "title": "Zurich (Multi-AZ), Switzerland",
+        "description": "Zurich (Multi-AZ)",
+        "Location": "Zurich (Multi-AZ)",
+        "category": "Europe",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5417,
+          47.3769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-united-kingdom-london",
+        "title": "London, United Kingdom",
+        "description": "London",
+        "Location": "London",
+        "category": "Europe",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1276,
+          51.5072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-united-kingdom-manchester",
+        "title": "Manchester, United Kingdom",
+        "description": "Manchester",
+        "Location": "Manchester",
+        "category": "Europe",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.2426,
+          53.4808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-united-kingdom-united-kingdom-multi-az",
+        "title": "United Kingdom (Multi-AZ), United Kingdom",
+        "description": "United Kingdom (Multi-AZ)",
+        "Location": "United Kingdom (Multi-AZ)",
+        "category": "Europe",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1276,
+          51.5072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-brazil-brazil-multi-pop",
+        "title": "Brazil (Multi-POP), Brazil",
+        "description": "Brazil (Multi-POP)",
+        "Location": "Brazil (Multi-POP)",
+        "category": "Latin America",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6333,
+          -23.5505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-brazil-rio-de-janeiro",
+        "title": "Rio de Janeiro, Brazil",
+        "description": "Rio de Janeiro",
+        "Location": "Rio de Janeiro",
+        "category": "Latin America",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1729,
+          -22.9068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-brazil-sao-paulo",
+        "title": "Sao Paulo, Brazil",
+        "description": "Sao Paulo",
+        "Location": "Sao Paulo",
+        "category": "Latin America",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6333,
+          -23.5505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-mexico-mexico-central-multi-az",
+        "title": "Mexico (Central) (Multi-AZ), Mexico",
+        "description": "Mexico (Central) (Multi-AZ)",
+        "Location": "Mexico (Central) (Multi-AZ)",
+        "category": "Latin America",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.3899,
+          20.5888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-mexico-queretaro",
+        "title": "Queretaro, Mexico",
+        "description": "Queretaro",
+        "Location": "Queretaro",
+        "category": "Latin America",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.3899,
+          20.5888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-bahrain-bahrain-multi-az",
+        "title": "Bahrain (Multi-AZ), Bahrain",
+        "description": "Bahrain (Multi-AZ)",
+        "Location": "Bahrain (Multi-AZ)",
+        "category": "Middle East",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.5861,
+          26.2235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-israel-tel-aviv",
+        "title": "Tel Aviv, Israel",
+        "description": "Tel Aviv",
+        "Location": "Tel Aviv",
+        "category": "Middle East",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7818,
+          32.0853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-israel-tel-aviv-multi-az",
+        "title": "Tel Aviv (Multi-AZ), Israel",
+        "description": "Tel Aviv (Multi-AZ)",
+        "Location": "Tel Aviv (Multi-AZ)",
+        "category": "Middle East",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7818,
+          32.0853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-saudi-arabia-jeddah",
+        "title": "Jeddah, Saudi Arabia",
+        "description": "Jeddah",
+        "Location": "Jeddah",
+        "category": "Middle East",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.1979,
+          21.5433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-saudi-arabia-riyadh",
+        "title": "Riyadh, Saudi Arabia",
+        "description": "Riyadh",
+        "Location": "Riyadh",
+        "category": "Middle East",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.6753,
+          24.7136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-uae-dubai",
+        "title": "Dubai, UAE",
+        "description": "Dubai",
+        "Location": "Dubai",
+        "category": "Middle East",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.2708,
+          25.2048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-uae-middle-east-multi-az",
+        "title": "Middle East (Multi-AZ), UAE",
+        "description": "Middle East (Multi-AZ)",
+        "Location": "Middle East (Multi-AZ)",
+        "category": "Middle East",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.2708,
+          25.2048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-canada-alberta-multi-paz",
+        "title": "Alberta (Multi-PAZ), Canada",
+        "description": "Alberta (Multi-PAZ)",
+        "Location": "Alberta (Multi-PAZ)",
+        "category": "North America",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0719,
+          51.0447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-canada-quebec-multi-paz",
+        "title": "Quebec (Multi-PAZ), Canada",
+        "description": "Quebec (Multi-PAZ)",
+        "Location": "Quebec (Multi-PAZ)",
+        "category": "North America",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5673,
+          45.5017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-canada-toronto",
+        "title": "Toronto, Canada",
+        "description": "Toronto",
+        "Location": "Toronto",
+        "category": "North America",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3832,
+          43.6532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-canada-vancouver",
+        "title": "Vancouver, Canada",
+        "description": "Vancouver",
+        "Location": "Vancouver",
+        "category": "North America",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1207,
+          49.2827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-us-ashburn",
+        "title": "Ashburn, US",
+        "description": "Ashburn",
+        "Location": "Ashburn",
+        "category": "North America",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4874,
+          39.0438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-us-atlanta",
+        "title": "Atlanta, US",
+        "description": "Atlanta",
+        "Location": "Atlanta",
+        "category": "North America",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.388,
+          33.749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-us-boston",
+        "title": "Boston, US",
+        "description": "Boston",
+        "Location": "Boston",
+        "category": "North America",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0589,
+          42.3601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-us-chicago",
+        "title": "Chicago, US",
+        "description": "Chicago",
+        "Location": "Chicago",
+        "category": "North America",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6298,
+          41.8781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-us-dallas",
+        "title": "Dallas, US",
+        "description": "Dallas",
+        "Location": "Dallas",
+        "category": "North America",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.797,
+          32.7767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-us-denver",
+        "title": "Denver, US",
+        "description": "Denver",
+        "Location": "Denver",
+        "category": "North America",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.9903,
+          39.7392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-us-govcloud-east-multi-az",
+        "title": "GovCloud East (Multi-AZ), US",
+        "description": "GovCloud East (Multi-AZ)",
+        "Location": "GovCloud East (Multi-AZ)",
+        "category": "North America",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4874,
+          39.0438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-us-los-angeles-1",
+        "title": "Los Angeles 1, US",
+        "description": "Los Angeles 1",
+        "Location": "Los Angeles 1",
+        "category": "North America",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2437,
+          34.0522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-us-los-angeles-2",
+        "title": "Los Angeles 2, US",
+        "description": "Los Angeles 2",
+        "Location": "Los Angeles 2",
+        "category": "North America",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2437,
+          34.0522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-us-miami-1",
+        "title": "Miami 1, US",
+        "description": "Miami 1",
+        "Location": "Miami 1",
+        "category": "North America",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1918,
+          25.7617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-us-miami-2",
+        "title": "Miami 2, US",
+        "description": "Miami 2",
+        "Location": "Miami 2",
+        "category": "North America",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1918,
+          25.7617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-us-minneapolis",
+        "title": "Minneapolis, US",
+        "description": "Minneapolis",
+        "Location": "Minneapolis",
+        "category": "North America",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.265,
+          44.9778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-us-new-york",
+        "title": "New York, US",
+        "description": "New York",
+        "Location": "New York",
+        "category": "North America",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.006,
+          40.7128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-us-northern-california-multi-az",
+        "title": "Northern California (Multi-AZ), US",
+        "description": "Northern California (Multi-AZ)",
+        "Location": "Northern California (Multi-AZ)",
+        "category": "North America",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.4944,
+          38.5816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-us-us-midwest-multi-az",
+        "title": "US Midwest (Multi-AZ), US",
+        "description": "US Midwest (Multi-AZ)",
+        "Location": "US Midwest (Multi-AZ)",
+        "category": "North America",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6298,
+          41.8781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-us-oregon-multi-az",
+        "title": "Oregon (Multi-AZ), US",
+        "description": "Oregon (Multi-AZ)",
+        "Location": "Oregon (Multi-AZ)",
+        "category": "North America",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6765,
+          45.5231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-us-reston-1",
+        "title": "Reston 1, US",
+        "description": "Reston 1",
+        "Location": "Reston 1",
+        "category": "North America",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.357,
+          38.9586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-us-reston-2",
+        "title": "Reston 2, US",
+        "description": "Reston 2",
+        "Location": "Reston 2",
+        "category": "North America",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.357,
+          38.9586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-us-san-jose-1",
+        "title": "San Jose 1, US",
+        "description": "San Jose 1",
+        "Location": "San Jose 1",
+        "category": "North America",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.8863,
+          37.3382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-us-san-jose-2",
+        "title": "San Jose 2, US",
+        "description": "San Jose 2",
+        "Location": "San Jose 2",
+        "category": "North America",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.8863,
+          37.3382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-us-seattle",
+        "title": "Seattle, US",
+        "description": "Seattle",
+        "Location": "Seattle",
+        "category": "North America",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3321,
+          47.6062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-us-virginia-multi-az",
+        "title": "Virginia (Multi-AZ), US",
+        "description": "Virginia (Multi-AZ)",
+        "Location": "Virginia (Multi-AZ)",
+        "category": "North America",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4874,
+          39.0438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-australia-melbourne",
+        "title": "Melbourne, Australia",
+        "description": "Melbourne",
+        "Location": "Melbourne",
+        "category": "Oceania",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9631,
+          -37.8136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-australia-melbourne-multi-az",
+        "title": "Melbourne (Multi-AZ), Australia",
+        "description": "Melbourne (Multi-AZ)",
+        "Location": "Melbourne (Multi-AZ)",
+        "category": "Oceania",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9631,
+          -37.8136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-australia-sydney",
+        "title": "Sydney, Australia",
+        "description": "Sydney",
+        "Location": "Sydney",
+        "category": "Oceania",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2093,
+          -33.8688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "m-australia-sydney-multi-az",
+        "title": "Sydney (Multi-AZ), Australia",
+        "description": "Sydney (Multi-AZ)",
+        "Location": "Sydney (Multi-AZ)",
+        "category": "Oceania",
+        "updated_at": "2026-02-20T18:27:01Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2093,
+          -33.8688
+        ]
+      }
+    }
+  ]
+}
