@@ -1,0 +1,93 @@
+Region,Country,Location,DC Type,DNS,SWG & DLP,Firewall,ZTA,VPN,Peering Fabric,Meraki Auto VPN Support
+Africa,South Africa,Cape Town,Cisco Edge v1,✓,✓,✓,,,NAPAfrica IX,
+Africa,South Africa,Johannesburg,Cisco Edge v1,✓,✓,✓,,,NAPAfrica IX,
+Africa,South Africa,South Africa (Multi-AZ),Public Cloud - On-Demand,,✓,✓,✓,✓,AWS,✓
+Asia,China,Beijing (Multi-AZ)***,Public Cloud - On-Demand,,✓,✓,,✓,AWS,
+Asia,China,Hong Kong SAR,Cisco Edge v1,✓,✓,✓,,,HKIX,
+Asia,China,Hong Kong SAR (Multi-AZ),Public Cloud - On-Demand,,✓,✓,✓,✓,AWS,✓
+Asia,China,Ningxia (Multi-AZ)***,Public Cloud - By-Request,,✓,✓,,✓,AWS,
+Asia,India,Chennai,Cisco Edge v1,✓,✓,✓,,,TBC,
+Asia,India,Chennai 2,Cisco Edge v2,,✓,✓,✓,✓,,
+Asia,India,Hyderabad (Multi-AZ),Public Cloud - On-Demand,,✓,✓,✓,✓,AWS,✓
+Asia,India,Mumbai (Multi-AZ),Public Cloud - On-Demand,,✓,✓,✓,✓,AWS,✓
+Asia,India,Mumbai 2,Cisco Edge v1,✓,✓,✓,,,,
+Asia,India,Mumbai 3,Cisco Edge v2,,✓,✓,✓,✓,,
+Asia,Indonesia,Jakarta (Multi-AZ),Public Cloud - On-Demand,,✓,✓,✓,✓,AWS,✓
+Asia,Japan,Osaka,Cisco Edge v1,✓,✓,✓,,,JPIX OSAKA / JPNAP Osaka,
+Asia,Japan,Osaka 2,Cisco Edge v2,,✓,✓,✓,✓,,
+Asia,Japan,Osaka (Multi-AZ),Public Cloud - On-Demand,,✓,✓,✓,✓,AWS,✓
+Asia,Japan,Tokyo (Multi-AZ),Public Cloud - On-Demand,,✓,✓,✓,✓,AWS,✓
+Asia,Japan,Tokyo 1,Cisco Edge v1,✓,✓,✓,,,JPIX Tokyo / JPNAP Tokyo,
+Asia,Japan,Tokyo 2,Cisco Edge v1,✓,✓,✓,,,Equinix Tokyo / JPIX Tokyo / JPNAP Tokyo,
+Asia,Japan,Tokyo 3,Cisco Edge v2,,✓,✓,✓,✓,,
+Asia,Malaysia,Malaysia (Multi-AZ),Public Cloud - By-Request,,✓,✓,✓,✓,AWS,
+Asia,Singapore,Singapore,Cisco Edge v1,✓,✓,✓,,,Equinix Singapore,
+Asia,Singapore,Singapore (Multi-AZ),Public Cloud - On-Demand,,✓,✓,✓,✓,AWS,✓
+Asia,South Korea,Seoul,Cisco Edge v1,✓,✓,✓,,,KINX,
+Asia,South Korea,Seoul (Multi-AZ),Public Cloud - By-Request,,✓,✓,✓,✓,AWS,
+Asia,Thailand,Thailand (Multi-AZ),Public Cloud - By-Request,,✓,✓,✓,✓,AWS,
+Europe,Czech Republic,Prague,Cisco Edge v1,✓,✓,✓,,,NIX.CZ,
+Europe,Denmark,Copenhagen,Cisco Edge v1,✓,✓,✓,,,Netnod IX Copenhagen,
+Europe,France,France (Multi-AZ),Public Cloud - By-Request,,✓,✓,✓,✓,AWS,
+Europe,France,Marseille,Cisco Edge v1,✓,✓,✓,,,,
+Europe,France,Paris,Cisco Edge v1,✓,✓,✓,,,FranceIX,
+Europe,Germany,Dusseldorf,Cisco Edge v1,✓,,,,,,
+Europe,Germany,Frankfurt,Cisco Edge v1,✓,✓,✓,,,DE-CIX,
+Europe,Germany,Germany (Multi-AZ),Public Cloud - On-Demand,,✓,✓,✓,✓,AWS,✓
+Europe,Ireland,Dublin,Cisco Edge v1,✓,✓,✓,,,INEX,
+Europe,Ireland,Ireland (Multi-AZ),Public Cloud - By-Request,,✓,✓,✓,✓,AWS,
+Europe,Italy,Milan,Cisco Edge v1,✓,✓,✓,,,MIX,
+Europe,Italy,Milan (Multi-AZ),Public Cloud - On-Demand,,✓,✓,✓,✓,AWS,✓
+Europe,Netherlands,Amsterdam,Cisco Edge v1,✓,✓,✓,,,AMS-IX,
+Europe,Poland,Warsaw,Cisco Edge v1,✓,,,,,PLIX,
+Europe,Romania,Bucharest,Cisco Edge v1,✓,,,,,Interlan,
+Europe,Spain,Madrid,Cisco Edge v1,✓,✓,✓,,,ESPANIX Madrid Lower LAN,
+Europe,Spain,Spain (Multi-AZ),Public Cloud - On-Demand,,✓,✓,✓,✓,AWS,✓
+Europe,Sweden,Stockholm,Cisco Edge v1,✓,✓,✓,,,Netnod Stockholm,
+Europe,Sweden,Stockholm (Multi-AZ),Public Cloud - On-Demand,,✓,✓,✓,✓,AWS,✓
+Europe,Switzerland,Zurich (Multi-AZ),Public Cloud - On-Demand,,✓,✓,✓,✓,AWS,✓
+Europe,United Kingdom,London,Cisco Edge v1,✓,✓,✓,,,LINX / LoNAP,
+Europe,United Kingdom,Manchester,Cisco Edge v1,✓,✓,✓,,,LINX Manchester,
+Europe,United Kingdom,United Kingdom (Multi-AZ),Public Cloud - On-Demand,,✓,✓,✓,✓,AWS,✓
+Latin America,Brazil,Brazil (Multi-POP),Public Cloud - On-Demand,,✓,✓,✓,✓,AWS,✓
+Latin America,Brazil,Rio de Janeiro,Cisco Edge v1,✓,✓,✓,,,IX.br Rio de Janeiro,
+Latin America,Brazil,Sao Paulo,Cisco Edge v1,✓,✓,✓,,,IX.br Sao Paulo,
+Latin America,Mexico,Mexico (Central) (Multi-AZ),Public Cloud - On-Demand,,✓,✓,✓,✓,AWS,✓
+Latin America,Mexico,Queretaro,Cisco Edge v1,✓,✓,✓,,,Equinix Mexico,
+Middle East,Bahrain,Bahrain (Multi-AZ),Public Cloud - By-Request,,✓,✓,✓,✓,AWS,
+Middle East,Israel,Tel Aviv,Cisco Edge v1,✓,,,,,,
+Middle East,Israel,Tel Aviv (Multi-AZ),Public Cloud - On-Demand,,✓,✓,✓,✓,AWS,
+Middle East,Saudi Arabia,Jeddah,Cisco Edge v2,✓,✓,✓,✓,✓,"JEDIX, SAIX",
+Middle East,Saudi Arabia,Riyadh,Cisco Edge v2,,✓,✓,✓,✓,SAIX,
+Middle East,UAE,Dubai,Cisco Edge v1,✓,✓,✓,,,UAE-IX,
+Middle East,UAE,Middle East (Multi-AZ),Public Cloud - On-Demand,,✓,✓,✓,✓,AWS,✓
+North America,Canada,Alberta (Multi-PAZ),Public Cloud - On-Demand,,✓,✓,✓,✓,AWS,✓
+North America,Canada,Quebec (Multi-PAZ),Public Cloud - On-Demand,,✓,✓,✓,✓,AWS,✓
+North America,Canada,Toronto,Cisco Edge v1,✓,✓,✓,,,TorIX,
+North America,Canada,Vancouver,Cisco Edge v1,✓,✓,✓,,,VANIX,
+North America,US,Ashburn,Cisco Edge v1,✓,✓,✓,,,Equinix Ashburn,
+North America,US,Atlanta,Cisco Edge v1,✓,✓,✓,,,Digital Realty,
+North America,US,Boston,Cisco Edge v1,✓,,,,,MASS-IX,
+North America,US,Chicago,Cisco Edge v1,✓,✓,✓,,,Equinix Chicago,
+North America,US,Dallas,Cisco Edge v1,✓,✓,✓,,,Equinix Dallas,
+North America,US,Denver,Cisco Edge v1,✓,✓,✓,,,CoreSite Any2 Denver,
+North America,US,GovCloud East (Multi-AZ),Public Cloud - On-Demand,✓,✓,✓,,,AWS,
+North America,US,Los Angeles 1,Cisco Edge v1,✓,✓,✓,,,Equinix Los Angeles,
+North America,US,Los Angeles 2,Cisco Edge v2,✓,✓,✓,✓,✓,Equinix Los Angeles,
+North America,US,Miami 1,Cisco Edge v1,✓,✓,✓,,,FL-IX,
+North America,US,Miami 2,Cisco Edge v2,✓,✓,✓,✓,✓,FL-IX,
+North America,US,Minneapolis,Cisco Edge v1,✓,✓,✓,,,,
+North America,US,New York,Cisco Edge v1,✓,✓,✓,,,NYIIX,
+North America,US,Northern California (Multi-AZ),Public Cloud - By-Request,,✓,✓,✓,✓,AWS,
+North America,US,US Midwest (Multi-AZ),Public Cloud - On-Demand,,✓,✓,✓,✓,AWS,✓
+North America,US,Oregon (Multi-AZ),Public Cloud -On-Demand,,✓,✓,✓,✓,AWS,✓
+North America,US,Reston 1,Cisco Edge v1,✓,✓,✓,,,CoreSite Any2,
+North America,US,Reston 2,Cisco Edge v2,✓,✓,✓,✓,✓,CoreSite Any2,
+North America,US,San Jose 1,Cisco Edge v1,✓,✓,✓,,,Equinix San Jose / PAIX,
+North America,US,San Jose 2,Cisco Edge v2,✓,✓,✓,✓,✓,Equinix San Jose / PAIX,
+North America,US,Seattle,Cisco Edge v1,✓,,,,,SIX,
+North America,US,Virginia (Multi-AZ),Public Cloud - On-Demand,,✓,✓,✓,✓,AWS,✓
+Oceania,Australia,Melbourne,Cisco Edge v1,✓,✓,✓,,,MegaIX,
+Oceania,Australia,Melbourne (Multi-AZ),Public Cloud - By-Request,,✓,✓,✓,✓,AWS,
+Oceania,Australia,Sydney,Cisco Edge v1,✓,✓,✓,,,Equinix Sydney / MegaIX,
+Oceania,Australia,Sydney (Multi-AZ),Public Cloud - On-Demand,,✓,✓,✓,✓,AWS,✓
