@@ -1,0 +1,98 @@
+name: Update Marker
+description: Update one or more fields on an existing marker by ID.
+title: "[Update Marker]: "
+labels:
+  - marker-update
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Provide the marker ID and only the fields you want to change.
+        Leave optional fields blank to keep existing values.
+
+  - type: input
+    id: id
+    attributes:
+      label: Marker ID
+      description: Required existing marker ID.
+      placeholder: m-20260101-a1b2c3
+    validations:
+      required: true
+
+  - type: input
+    id: title
+    attributes:
+      label: Title
+      description: Optional replacement title.
+    validations:
+      required: false
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Optional replacement description.
+    validations:
+      required: false
+
+  - type: input
+    id: link
+    attributes:
+      label: Link
+      description: Optional replacement URL.
+      placeholder: https://example.org/place
+    validations:
+      required: false
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      description: Optional replacement category.
+      options:
+        - (no change)
+        - community
+        - education
+        - health
+        - infrastructure
+        - parks
+        - safety
+        - transportation
+        - other
+    validations:
+      required: false
+
+  - type: input
+    id: lat
+    attributes:
+      label: Latitude
+      description: Optional replacement latitude in range -90..90.
+      placeholder: "37.7749"
+    validations:
+      required: false
+
+  - type: input
+    id: lng
+    attributes:
+      label: Longitude
+      description: Optional replacement longitude in range -180..180.
+      placeholder: "-122.4194"
+    validations:
+      required: false
+
+  - type: input
+    id: icon
+    attributes:
+      label: Icon
+      description: Optional replacement icon value ("default" or URL).
+      placeholder: default
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: focus_on_load
+    attributes:
+      label: Optional map behavior
+      options:
+        - label: Recenter map to this marker on load (sets properties.focus_on_load=true)
+          required: false
