@@ -1,0 +1,123 @@
+name: Markers from Issues
+
+on:
+  issues:
+    types: [opened, edited, labeled]
+
+permissions:
+  contents: write
+  pull-requests: write
+  issues: write
+
+env:
+  MARKER_APPLY_MODE: direct
+
+jobs:
+  apply-marker-change:
+    if: contains(join(github.event.issue.labels.*.name, ','), 'marker-add') || contains(join(github.event.issue.labels.*.name, ','), 'marker-update') || contains(join(github.event.issue.labels.*.name, ','), 'marker-delete')
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Apply issue mutation to GeoJSON
+        id: mutate
+        run: node tools/apply_marker_issue.js
+
+      - name: Commit changes directly (Mode A)
+        id: commit_direct
+        if: env.MARKER_APPLY_MODE == 'direct'
+        run: |
+          if git diff --quiet -- docs/data/markers.geojson; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/data/markers.geojson
+          git commit -m "chore(markers): apply issue #${{ github.event.issue.number }}"
+          git push
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+      - name: Create pull request (Mode B)
+        id: create_pr
+        if: env.MARKER_APPLY_MODE == 'pr'
+        uses: peter-evans/create-pull-request@v7
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          branch: marker-issue-${{ github.event.issue.number }}-${{ github.run_id }}
+          delete-branch: true
+          commit-message: "chore(markers): apply issue #${{ github.event.issue.number }}"
+          title: "Apply marker update from issue #${{ github.event.issue.number }}"
+          body: |
+            Automated marker update generated from issue #${{ github.event.issue.number }}.
+            Mode: pull request.
+          labels: automation, markers
+          add-paths: |
+            docs/data/markers.geojson
+
+      - name: Read success result
+        id: result
+        if: success()
+        run: |
+          MESSAGE=$(node -e "const fs=require('fs');const r=JSON.parse(fs.readFileSync('tools/last_result.json','utf8'));process.stdout.write(r.message.replace(/\n/g,' '));")
+          echo "message=$MESSAGE" >> "$GITHUB_OUTPUT"
+
+      - name: Label, comment, and close on success
+        if: success()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const issue_number = context.payload.issue.number;
+            const body = `✅ ${process.env.RESULT_MESSAGE}\n\nMode: ${process.env.MARKER_APPLY_MODE === 'pr' ? 'PR created' : 'Direct commit'}.`;
+            await github.rest.issues.addLabels({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number,
+              labels: ['marker-applied']
+            });
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number,
+              body
+            });
+            await github.rest.issues.update({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number,
+              state: 'closed'
+            });
+        env:
+          RESULT_MESSAGE: ${{ steps.result.outputs.message }}
+
+      - name: Label and comment on failure
+        if: failure()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const issue_number = context.payload.issue.number;
+            let reason = 'Unknown error while applying marker issue.';
+            if (fs.existsSync('tools/last_result.json')) {
+              const parsed = JSON.parse(fs.readFileSync('tools/last_result.json','utf8'));
+              reason = parsed.message || reason;
+            }
+            await github.rest.issues.addLabels({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number,
+              labels: ['marker-error']
+            });
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number,
+              body: `❌ Marker change could not be applied.\n\nReason: ${reason}`
+            });
