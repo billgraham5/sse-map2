@@ -6,13 +6,6 @@ const map = L.map('map', {
   worldCopyJump: true,
 });
 
-
-L.Icon.Default.mergeOptions({
-  iconRetinaUrl: 'https://unpkg.com/leaflet@1.9.4/dist/images/marker-icon-2x.png',
-  iconUrl: 'https://unpkg.com/leaflet@1.9.4/dist/images/marker-icon.png',
-  shadowUrl: 'https://unpkg.com/leaflet@1.9.4/dist/images/marker-shadow.png',
-});
-
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
   attribution:
     '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
@@ -42,12 +35,11 @@ function safeHtml(text) {
 function markerPopup(feature) {
   const props = feature.properties || {};
   const link = normalizeText(props.link);
-  const location = normalizeText(props.Location || props.description);
 
   return `
     <article>
       <h3>${safeHtml(props.title || 'Untitled marker')}</h3>
-      <p><strong>Location:</strong> ${safeHtml(location || 'Not provided.')}</p>
+      <p>${safeHtml(props.description || 'No description provided.')}</p>
       <p><strong>Category:</strong> ${safeHtml(props.category || 'Uncategorized')}</p>
       <p><strong>Link:</strong> ${
         link

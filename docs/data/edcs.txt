@@ -1,93 +1,93 @@
-id	title	Location	Region	Latitude	Longitude	updated_at
-m-south-africa-cape-town	Cape Town, South Africa	Cape Town	Africa	-33.9249	18.4241	2026-02-20T18:27:01Z
-m-south-africa-johannesburg	Johannesburg, South Africa	Johannesburg	Africa	-26.2041	28.0473	2026-02-20T18:27:01Z
-m-south-africa-south-africa-multi-az	South Africa (Multi-AZ), South Africa	South Africa (Multi-AZ)	Africa	-25.7479	28.2293	2026-02-20T18:27:01Z
-m-china-beijing-multi-az	Beijing (Multi-AZ), China	Beijing (Multi-AZ)	Asia	39.9042	116.4074	2026-02-20T18:27:01Z
-m-china-hong-kong-sar	Hong Kong SAR, China	Hong Kong SAR	Asia	22.3193	114.1694	2026-02-20T18:27:01Z
-m-china-hong-kong-sar-multi-az	Hong Kong SAR (Multi-AZ), China	Hong Kong SAR (Multi-AZ)	Asia	22.3193	114.1694	2026-02-20T18:27:01Z
-m-china-ningxia-multi-az	Ningxia (Multi-AZ), China	Ningxia (Multi-AZ)	Asia	38.4872	106.2309	2026-02-20T18:27:01Z
-m-india-chennai	Chennai, India	Chennai	Asia	13.0827	80.2707	2026-02-20T18:27:01Z
-m-india-chennai-2	Chennai 2, India	Chennai 2	Asia	13.0827	80.2707	2026-02-20T18:27:01Z
-m-india-hyderabad-multi-az	Hyderabad (Multi-AZ), India	Hyderabad (Multi-AZ)	Asia	17.385	78.4867	2026-02-20T18:27:01Z
-m-india-mumbai-multi-az	Mumbai (Multi-AZ), India	Mumbai (Multi-AZ)	Asia	19.076	72.8777	2026-02-20T18:27:01Z
-m-india-mumbai-2	Mumbai 2, India	Mumbai 2	Asia	19.076	72.8777	2026-02-20T18:27:01Z
-m-india-mumbai-3	Mumbai 3, India	Mumbai 3	Asia	19.076	72.8777	2026-02-20T18:27:01Z
-m-indonesia-jakarta-multi-az	Jakarta (Multi-AZ), Indonesia	Jakarta (Multi-AZ)	Asia	-6.2088	106.8456	2026-02-20T18:27:01Z
-m-japan-osaka	Osaka, Japan	Osaka	Asia	34.6937	135.5023	2026-02-20T18:27:01Z
-m-japan-osaka-2	Osaka 2, Japan	Osaka 2	Asia	34.6937	135.5023	2026-02-20T18:27:01Z
-m-japan-osaka-multi-az	Osaka (Multi-AZ), Japan	Osaka (Multi-AZ)	Asia	34.6937	135.5023	2026-02-20T18:27:01Z
-m-japan-tokyo-multi-az	Tokyo (Multi-AZ), Japan	Tokyo (Multi-AZ)	Asia	35.6895	139.6917	2026-02-20T18:27:01Z
-m-japan-tokyo-1	Tokyo 1, Japan	Tokyo 1	Asia	35.6895	139.6917	2026-02-20T18:27:01Z
-m-japan-tokyo-2	Tokyo 2, Japan	Tokyo 2	Asia	35.6895	139.6917	2026-02-20T18:27:01Z
-m-japan-tokyo-3	Tokyo 3, Japan	Tokyo 3	Asia	35.6895	139.6917	2026-02-20T18:27:01Z
-m-malaysia-malaysia-multi-az	Malaysia (Multi-AZ), Malaysia	Malaysia (Multi-AZ)	Asia	3.139	101.6869	2026-02-20T18:27:01Z
-m-singapore-singapore	Singapore, Singapore	Singapore	Asia	1.3521	103.8198	2026-02-20T18:27:01Z
-m-singapore-singapore-multi-az	Singapore (Multi-AZ), Singapore	Singapore (Multi-AZ)	Asia	1.3521	103.8198	2026-02-20T18:27:01Z
-m-south-korea-seoul	Seoul, South Korea	Seoul	Asia	37.5665	126.978	2026-02-20T18:27:01Z
-m-south-korea-seoul-multi-az	Seoul (Multi-AZ), South Korea	Seoul (Multi-AZ)	Asia	37.5665	126.978	2026-02-20T18:27:01Z
-m-thailand-thailand-multi-az	Thailand (Multi-AZ), Thailand	Thailand (Multi-AZ)	Asia	13.7563	100.5018	2026-02-20T18:27:01Z
-m-czech-republic-prague	Prague, Czech Republic	Prague	Europe	50.0755	14.4378	2026-02-20T18:27:01Z
-m-denmark-copenhagen	Copenhagen, Denmark	Copenhagen	Europe	55.6761	12.5683	2026-02-20T18:27:01Z
-m-france-france-multi-az	France (Multi-AZ), France	France (Multi-AZ)	Europe	48.8566	2.3522	2026-02-20T18:27:01Z
-m-france-marseille	Marseille, France	Marseille	Europe	43.2965	5.3698	2026-02-20T18:27:01Z
-m-france-paris	Paris, France	Paris	Europe	48.8566	2.3522	2026-02-20T18:27:01Z
-m-germany-dusseldorf	Dusseldorf, Germany	Dusseldorf	Europe	51.2277	6.7735	2026-02-20T18:27:01Z
-m-germany-frankfurt	Frankfurt, Germany	Frankfurt	Europe	50.1109	8.6821	2026-02-20T18:27:01Z
-m-germany-germany-multi-az	Germany (Multi-AZ), Germany	Germany (Multi-AZ)	Europe	50.1109	8.6821	2026-02-20T18:27:01Z
-m-ireland-dublin	Dublin, Ireland	Dublin	Europe	53.3498	-6.2603	2026-02-20T18:27:01Z
-m-ireland-ireland-multi-az	Ireland (Multi-AZ), Ireland	Ireland (Multi-AZ)	Europe	53.3498	-6.2603	2026-02-20T18:27:01Z
-m-italy-milan	Milan, Italy	Milan	Europe	45.4642	9.19	2026-02-20T18:27:01Z
-m-italy-milan-multi-az	Milan (Multi-AZ), Italy	Milan (Multi-AZ)	Europe	45.4642	9.19	2026-02-20T18:27:01Z
-m-netherlands-amsterdam	Amsterdam, Netherlands	Amsterdam	Europe	52.3676	4.9041	2026-02-20T18:27:01Z
-m-poland-warsaw	Warsaw, Poland	Warsaw	Europe	52.2297	21.0122	2026-02-20T18:27:01Z
-m-romania-bucharest	Bucharest, Romania	Bucharest	Europe	44.4268	26.1025	2026-02-20T18:27:01Z
-m-spain-madrid	Madrid, Spain	Madrid	Europe	40.4168	-3.7038	2026-02-20T18:27:01Z
-m-spain-spain-multi-az	Spain (Multi-AZ), Spain	Spain (Multi-AZ)	Europe	40.4168	-3.7038	2026-02-20T18:27:01Z
-m-sweden-stockholm	Stockholm, Sweden	Stockholm	Europe	59.3293	18.0686	2026-02-20T18:27:01Z
-m-sweden-stockholm-multi-az	Stockholm (Multi-AZ), Sweden	Stockholm (Multi-AZ)	Europe	59.3293	18.0686	2026-02-20T18:27:01Z
-m-switzerland-zurich-multi-az	Zurich (Multi-AZ), Switzerland	Zurich (Multi-AZ)	Europe	47.3769	8.5417	2026-02-20T18:27:01Z
-m-united-kingdom-london	London, United Kingdom	London	Europe	51.5072	-0.1276	2026-02-20T18:27:01Z
-m-united-kingdom-manchester	Manchester, United Kingdom	Manchester	Europe	53.4808	-2.2426	2026-02-20T18:27:01Z
-m-united-kingdom-united-kingdom-multi-az	United Kingdom (Multi-AZ), United Kingdom	United Kingdom (Multi-AZ)	Europe	51.5072	-0.1276	2026-02-20T18:27:01Z
-m-brazil-brazil-multi-pop	Brazil (Multi-POP), Brazil	Brazil (Multi-POP)	Latin America	-23.5505	-46.6333	2026-02-20T18:27:01Z
-m-brazil-rio-de-janeiro	Rio de Janeiro, Brazil	Rio de Janeiro	Latin America	-22.9068	-43.1729	2026-02-20T18:27:01Z
-m-brazil-sao-paulo	Sao Paulo, Brazil	Sao Paulo	Latin America	-23.5505	-46.6333	2026-02-20T18:27:01Z
-m-mexico-mexico-central-multi-az	Mexico (Central) (Multi-AZ), Mexico	Mexico (Central) (Multi-AZ)	Latin America	20.5888	-100.3899	2026-02-20T18:27:01Z
-m-mexico-queretaro	Queretaro, Mexico	Queretaro	Latin America	20.5888	-100.3899	2026-02-20T18:27:01Z
-m-bahrain-bahrain-multi-az	Bahrain (Multi-AZ), Bahrain	Bahrain (Multi-AZ)	Middle East	26.2235	50.5861	2026-02-20T18:27:01Z
-m-israel-tel-aviv	Tel Aviv, Israel	Tel Aviv	Middle East	32.0853	34.7818	2026-02-20T18:27:01Z
-m-israel-tel-aviv-multi-az	Tel Aviv (Multi-AZ), Israel	Tel Aviv (Multi-AZ)	Middle East	32.0853	34.7818	2026-02-20T18:27:01Z
-m-saudi-arabia-jeddah	Jeddah, Saudi Arabia	Jeddah	Middle East	21.5433	39.1979	2026-02-20T18:27:01Z
-m-saudi-arabia-riyadh	Riyadh, Saudi Arabia	Riyadh	Middle East	24.7136	46.6753	2026-02-20T18:27:01Z
-m-uae-dubai	Dubai, UAE	Dubai	Middle East	25.2048	55.2708	2026-02-20T18:27:01Z
-m-uae-middle-east-multi-az	Middle East (Multi-AZ), UAE	Middle East (Multi-AZ)	Middle East	25.2048	55.2708	2026-02-20T18:27:01Z
-m-canada-alberta-multi-paz	Alberta (Multi-PAZ), Canada	Alberta (Multi-PAZ)	North America	51.0447	-114.0719	2026-02-20T18:27:01Z
-m-canada-quebec-multi-paz	Quebec (Multi-PAZ), Canada	Quebec (Multi-PAZ)	North America	45.5017	-73.5673	2026-02-20T18:27:01Z
-m-canada-toronto	Toronto, Canada	Toronto	North America	43.6532	-79.3832	2026-02-20T18:27:01Z
-m-canada-vancouver	Vancouver, Canada	Vancouver	North America	49.2827	-123.1207	2026-02-20T18:27:01Z
-m-us-ashburn	Ashburn, US	Ashburn	North America	39.0438	-77.4874	2026-02-20T18:27:01Z
-m-us-atlanta	Atlanta, US	Atlanta	North America	33.749	-84.388	2026-02-20T18:27:01Z
-m-us-boston	Boston, US	Boston	North America	42.3601	-71.0589	2026-02-20T18:27:01Z
-m-us-chicago	Chicago, US	Chicago	North America	41.8781	-87.6298	2026-02-20T18:27:01Z
-m-us-dallas	Dallas, US	Dallas	North America	32.7767	-96.797	2026-02-20T18:27:01Z
-m-us-denver	Denver, US	Denver	North America	39.7392	-104.9903	2026-02-20T18:27:01Z
-m-us-govcloud-east-multi-az	GovCloud East (Multi-AZ), US	GovCloud East (Multi-AZ)	North America	39.0438	-77.4874	2026-02-20T18:27:01Z
-m-us-los-angeles-1	Los Angeles 1, US	Los Angeles 1	North America	34.0522	-118.2437	2026-02-20T18:27:01Z
-m-us-los-angeles-2	Los Angeles 2, US	Los Angeles 2	North America	34.0522	-118.2437	2026-02-20T18:27:01Z
-m-us-miami-1	Miami 1, US	Miami 1	North America	25.7617	-80.1918	2026-02-20T18:27:01Z
-m-us-miami-2	Miami 2, US	Miami 2	North America	25.7617	-80.1918	2026-02-20T18:27:01Z
-m-us-minneapolis	Minneapolis, US	Minneapolis	North America	44.9778	-93.265	2026-02-20T18:27:01Z
-m-us-new-york	New York, US	New York	North America	40.7128	-74.006	2026-02-20T18:27:01Z
-m-us-northern-california-multi-az	Northern California (Multi-AZ), US	Northern California (Multi-AZ)	North America	38.5816	-121.4944	2026-02-20T18:27:01Z
-m-us-us-midwest-multi-az	US Midwest (Multi-AZ), US	US Midwest (Multi-AZ)	North America	41.8781	-87.6298	2026-02-20T18:27:01Z
-m-us-oregon-multi-az	Oregon (Multi-AZ), US	Oregon (Multi-AZ)	North America	45.5231	-122.6765	2026-02-20T18:27:01Z
-m-us-reston-1	Reston 1, US	Reston 1	North America	38.9586	-77.357	2026-02-20T18:27:01Z
-m-us-reston-2	Reston 2, US	Reston 2	North America	38.9586	-77.357	2026-02-20T18:27:01Z
-m-us-san-jose-1	San Jose 1, US	San Jose 1	North America	37.3382	-121.8863	2026-02-20T18:27:01Z
-m-us-san-jose-2	San Jose 2, US	San Jose 2	North America	37.3382	-121.8863	2026-02-20T18:27:01Z
-m-us-seattle	Seattle, US	Seattle	North America	47.6062	-122.3321	2026-02-20T18:27:01Z
-m-us-virginia-multi-az	Virginia (Multi-AZ), US	Virginia (Multi-AZ)	North America	39.0438	-77.4874	2026-02-20T18:27:01Z
-m-australia-melbourne	Melbourne, Australia	Melbourne	Oceania	-37.8136	144.9631	2026-02-20T18:27:01Z
-m-australia-melbourne-multi-az	Melbourne (Multi-AZ), Australia	Melbourne (Multi-AZ)	Oceania	-37.8136	144.9631	2026-02-20T18:27:01Z
-m-australia-sydney	Sydney, Australia	Sydney	Oceania	-33.8688	151.2093	2026-02-20T18:27:01Z
-m-australia-sydney-multi-az	Sydney (Multi-AZ), Australia	Sydney (Multi-AZ)	Oceania	-33.8688	151.2093	2026-02-20T18:27:01Z
+Region,Country,Location,DC Type,DNS,SWG & DLP,Firewall,ZTA,VPN,Peering Fabric,Meraki Auto VPN Support
+Africa,South Africa,Cape Town,Cisco Edge v1,✓,✓,✓,,,NAPAfrica IX,
+Africa,South Africa,Johannesburg,Cisco Edge v1,✓,✓,✓,,,NAPAfrica IX,
+Africa,South Africa,South Africa (Multi-AZ),Public Cloud - On-Demand,,✓,✓,✓,✓,AWS,✓
+Asia,China,Beijing (Multi-AZ)***,Public Cloud - On-Demand,,✓,✓,,✓,AWS,
+Asia,China,Hong Kong SAR,Cisco Edge v1,✓,✓,✓,,,HKIX,
+Asia,China,Hong Kong SAR (Multi-AZ),Public Cloud - On-Demand,,✓,✓,✓,✓,AWS,✓
+Asia,China,Ningxia (Multi-AZ)***,Public Cloud - By-Request,,✓,✓,,✓,AWS,
+Asia,India,Chennai,Cisco Edge v1,✓,✓,✓,,,TBC,
+Asia,India,Chennai 2,Cisco Edge v2,,✓,✓,✓,✓,,
+Asia,India,Hyderabad (Multi-AZ),Public Cloud - On-Demand,,✓,✓,✓,✓,AWS,✓
+Asia,India,Mumbai (Multi-AZ),Public Cloud - On-Demand,,✓,✓,✓,✓,AWS,✓
+Asia,India,Mumbai 2,Cisco Edge v1,✓,✓,✓,,,,
+Asia,India,Mumbai 3,Cisco Edge v2,,✓,✓,✓,✓,,
+Asia,Indonesia,Jakarta (Multi-AZ),Public Cloud - On-Demand,,✓,✓,✓,✓,AWS,✓
+Asia,Japan,Osaka,Cisco Edge v1,✓,✓,✓,,,JPIX OSAKA / JPNAP Osaka,
+Asia,Japan,Osaka 2,Cisco Edge v2,,✓,✓,✓,✓,,
+Asia,Japan,Osaka (Multi-AZ),Public Cloud - On-Demand,,✓,✓,✓,✓,AWS,✓
+Asia,Japan,Tokyo (Multi-AZ),Public Cloud - On-Demand,,✓,✓,✓,✓,AWS,✓
+Asia,Japan,Tokyo 1,Cisco Edge v1,✓,✓,✓,,,JPIX Tokyo / JPNAP Tokyo,
+Asia,Japan,Tokyo 2,Cisco Edge v1,✓,✓,✓,,,Equinix Tokyo / JPIX Tokyo / JPNAP Tokyo,
+Asia,Japan,Tokyo 3,Cisco Edge v2,,✓,✓,✓,✓,,
+Asia,Malaysia,Malaysia (Multi-AZ),Public Cloud - By-Request,,✓,✓,✓,✓,AWS,
+Asia,Singapore,Singapore,Cisco Edge v1,✓,✓,✓,,,Equinix Singapore,
+Asia,Singapore,Singapore (Multi-AZ),Public Cloud - On-Demand,,✓,✓,✓,✓,AWS,✓
+Asia,South Korea,Seoul,Cisco Edge v1,✓,✓,✓,,,KINX,
+Asia,South Korea,Seoul (Multi-AZ),Public Cloud - By-Request,,✓,✓,✓,✓,AWS,
+Asia,Thailand,Thailand (Multi-AZ),Public Cloud - By-Request,,✓,✓,✓,✓,AWS,
+Europe,Czech Republic,Prague,Cisco Edge v1,✓,✓,✓,,,NIX.CZ,
+Europe,Denmark,Copenhagen,Cisco Edge v1,✓,✓,✓,,,Netnod IX Copenhagen,
+Europe,France,France (Multi-AZ),Public Cloud - By-Request,,✓,✓,✓,✓,AWS,
+Europe,France,Marseille,Cisco Edge v1,✓,✓,✓,,,,
+Europe,France,Paris,Cisco Edge v1,✓,✓,✓,,,FranceIX,
+Europe,Germany,Dusseldorf,Cisco Edge v1,✓,,,,,,
+Europe,Germany,Frankfurt,Cisco Edge v1,✓,✓,✓,,,DE-CIX,
+Europe,Germany,Germany (Multi-AZ),Public Cloud - On-Demand,,✓,✓,✓,✓,AWS,✓
+Europe,Ireland,Dublin,Cisco Edge v1,✓,✓,✓,,,INEX,
+Europe,Ireland,Ireland (Multi-AZ),Public Cloud - By-Request,,✓,✓,✓,✓,AWS,
+Europe,Italy,Milan,Cisco Edge v1,✓,✓,✓,,,MIX,
+Europe,Italy,Milan (Multi-AZ),Public Cloud - On-Demand,,✓,✓,✓,✓,AWS,✓
+Europe,Netherlands,Amsterdam,Cisco Edge v1,✓,✓,✓,,,AMS-IX,
+Europe,Poland,Warsaw,Cisco Edge v1,✓,,,,,PLIX,
+Europe,Romania,Bucharest,Cisco Edge v1,✓,,,,,Interlan,
+Europe,Spain,Madrid,Cisco Edge v1,✓,✓,✓,,,ESPANIX Madrid Lower LAN,
+Europe,Spain,Spain (Multi-AZ),Public Cloud - On-Demand,,✓,✓,✓,✓,AWS,✓
+Europe,Sweden,Stockholm,Cisco Edge v1,✓,✓,✓,,,Netnod Stockholm,
+Europe,Sweden,Stockholm (Multi-AZ),Public Cloud - On-Demand,,✓,✓,✓,✓,AWS,✓
+Europe,Switzerland,Zurich (Multi-AZ),Public Cloud - On-Demand,,✓,✓,✓,✓,AWS,✓
+Europe,United Kingdom,London,Cisco Edge v1,✓,✓,✓,,,LINX / LoNAP,
+Europe,United Kingdom,Manchester,Cisco Edge v1,✓,✓,✓,,,LINX Manchester,
+Europe,United Kingdom,United Kingdom (Multi-AZ),Public Cloud - On-Demand,,✓,✓,✓,✓,AWS,✓
+Latin America,Brazil,Brazil (Multi-POP),Public Cloud - On-Demand,,✓,✓,✓,✓,AWS,✓
+Latin America,Brazil,Rio de Janeiro,Cisco Edge v1,✓,✓,✓,,,IX.br Rio de Janeiro,
+Latin America,Brazil,Sao Paulo,Cisco Edge v1,✓,✓,✓,,,IX.br Sao Paulo,
+Latin America,Mexico,Mexico (Central) (Multi-AZ),Public Cloud - On-Demand,,✓,✓,✓,✓,AWS,✓
+Latin America,Mexico,Queretaro,Cisco Edge v1,✓,✓,✓,,,Equinix Mexico,
+Middle East,Bahrain,Bahrain (Multi-AZ),Public Cloud - By-Request,,✓,✓,✓,✓,AWS,
+Middle East,Israel,Tel Aviv,Cisco Edge v1,✓,,,,,,
+Middle East,Israel,Tel Aviv (Multi-AZ),Public Cloud - On-Demand,,✓,✓,✓,✓,AWS,
+Middle East,Saudi Arabia,Jeddah,Cisco Edge v2,✓,✓,✓,✓,✓,"JEDIX, SAIX",
+Middle East,Saudi Arabia,Riyadh,Cisco Edge v2,,✓,✓,✓,✓,SAIX,
+Middle East,UAE,Dubai,Cisco Edge v1,✓,✓,✓,,,UAE-IX,
+Middle East,UAE,Middle East (Multi-AZ),Public Cloud - On-Demand,,✓,✓,✓,✓,AWS,✓
+North America,Canada,Alberta (Multi-PAZ),Public Cloud - On-Demand,,✓,✓,✓,✓,AWS,✓
+North America,Canada,Quebec (Multi-PAZ),Public Cloud - On-Demand,,✓,✓,✓,✓,AWS,✓
+North America,Canada,Toronto,Cisco Edge v1,✓,✓,✓,,,TorIX,
+North America,Canada,Vancouver,Cisco Edge v1,✓,✓,✓,,,VANIX,
+North America,US,Ashburn,Cisco Edge v1,✓,✓,✓,,,Equinix Ashburn,
+North America,US,Atlanta,Cisco Edge v1,✓,✓,✓,,,Digital Realty,
+North America,US,Boston,Cisco Edge v1,✓,,,,,MASS-IX,
+North America,US,Chicago,Cisco Edge v1,✓,✓,✓,,,Equinix Chicago,
+North America,US,Dallas,Cisco Edge v1,✓,✓,✓,,,Equinix Dallas,
+North America,US,Denver,Cisco Edge v1,✓,✓,✓,,,CoreSite Any2 Denver,
+North America,US,GovCloud East (Multi-AZ),Public Cloud - On-Demand,✓,✓,✓,,,AWS,
+North America,US,Los Angeles 1,Cisco Edge v1,✓,✓,✓,,,Equinix Los Angeles,
+North America,US,Los Angeles 2,Cisco Edge v2,✓,✓,✓,✓,✓,Equinix Los Angeles,
+North America,US,Miami 1,Cisco Edge v1,✓,✓,✓,,,FL-IX,
+North America,US,Miami 2,Cisco Edge v2,✓,✓,✓,✓,✓,FL-IX,
+North America,US,Minneapolis,Cisco Edge v1,✓,✓,✓,,,,
+North America,US,New York,Cisco Edge v1,✓,✓,✓,,,NYIIX,
+North America,US,Northern California (Multi-AZ),Public Cloud - By-Request,,✓,✓,✓,✓,AWS,
+North America,US,US Midwest (Multi-AZ),Public Cloud - On-Demand,,✓,✓,✓,✓,AWS,✓
+North America,US,Oregon (Multi-AZ),Public Cloud -On-Demand,,✓,✓,✓,✓,AWS,✓
+North America,US,Reston 1,Cisco Edge v1,✓,✓,✓,,,CoreSite Any2,
+North America,US,Reston 2,Cisco Edge v2,✓,✓,✓,✓,✓,CoreSite Any2,
+North America,US,San Jose 1,Cisco Edge v1,✓,✓,✓,,,Equinix San Jose / PAIX,
+North America,US,San Jose 2,Cisco Edge v2,✓,✓,✓,✓,✓,Equinix San Jose / PAIX,
+North America,US,Seattle,Cisco Edge v1,✓,,,,,SIX,
+North America,US,Virginia (Multi-AZ),Public Cloud - On-Demand,,✓,✓,✓,✓,AWS,✓
+Oceania,Australia,Melbourne,Cisco Edge v1,✓,✓,✓,,,MegaIX,
+Oceania,Australia,Melbourne (Multi-AZ),Public Cloud - By-Request,,✓,✓,✓,✓,AWS,
+Oceania,Australia,Sydney,Cisco Edge v1,✓,✓,✓,,,Equinix Sydney / MegaIX,
+Oceania,Australia,Sydney (Multi-AZ),Public Cloud - On-Demand,,✓,✓,✓,✓,AWS,✓

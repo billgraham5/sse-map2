@@ -12,8 +12,7 @@ This repository is a complete mapping app that uses only GitHub-native component
   - `index.html` – map page shell
   - `app.js` – Leaflet map, filters, data loading
   - `styles.css` – layout and UI styling
-  - `data/edcs.txt` – tab-separated source input for marker rows (header row required)
-  - `data/markers.geojson` – generated marker dataset consumed by the map
+  - `data/markers.geojson` – source-of-truth marker dataset
 - `.github/ISSUE_TEMPLATE/` – issue forms for marker CRUD
 - `.github/workflows/markers-from-issues.yml` – automation workflow
 - `tools/` – local helpers for issue parsing and GeoJSON validation
@@ -99,12 +98,6 @@ env:
 
 ```bash
 node tools/validate_geojson.js docs/data/markers.geojson
-```
-
-- Build markers from `docs/data/edcs.txt` (first row is field names):
-
-```bash
-node tools/build_markers_from_edcs.js
 ```
 
 - Parse a sample issue body payload:
