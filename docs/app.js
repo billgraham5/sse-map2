@@ -35,12 +35,11 @@ function safeHtml(text) {
 function markerPopup(feature) {
   const props = feature.properties || {};
   const link = normalizeText(props.link);
-  const location = normalizeText(props.description);
 
   return `
     <article>
       <h3>${safeHtml(props.title || 'Untitled marker')}</h3>
-      <p><strong>Location:</strong> ${safeHtml(location || 'Not provided.')}</p>
+      <p>${safeHtml(props.description || 'No description provided.')}</p>
       <p><strong>Category:</strong> ${safeHtml(props.category || 'Uncategorized')}</p>
       <p><strong>Link:</strong> ${
         link
